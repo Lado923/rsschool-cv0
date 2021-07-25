@@ -1,0 +1,24 @@
+body {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+header {
+    background-color: rgb(83, 83, 83);
+    color: white;
+    display: flex;
+    
+}
+
+
+
+footer {
+    background-color:  rgb(83, 83, 83);
+    display: flex;
+    color:white;
+}
+
+.item {
+    justify-content:space-around;
+}
